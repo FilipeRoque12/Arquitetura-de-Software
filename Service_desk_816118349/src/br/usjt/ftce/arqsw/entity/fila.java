@@ -3,6 +3,7 @@ package br.usjt.ftce.arqsw.entity;
 public class fila {
 	private int id;
 	private String nome;
+	private int number;
 	
 	public int getId() {
 		return id;
